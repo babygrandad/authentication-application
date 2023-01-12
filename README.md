@@ -22,7 +22,7 @@ Upon open the aplication url you will be greated by the Login section.
 ### 1.2 Registration
 - If you do not have an account click on where it says [register here](/register.php) the link to take you to the registration page.
 
-<span style="color:Red">Image with "Register Here" highlighted...</span>
+![image](/images/Project%20images/edited/show%20registration.png)
 
 - <span style="color:Red"> ***! Important reminder !:*** </span> Remeber to register as an admin you need to user [admin's registration page](/adminregister.php) 
 
