@@ -66,12 +66,12 @@ The **"Librarian / Admin"** dashboard looks like this. It has a few more options
     
 - **2.2.1.2 Delete**
 
-    - Each table item has its own *Delete* option which will take you to the edit page of that particular item.
+    - Each table item has its own *Delete* option which will take you to the delete page of that particular item.
     - The pages will look like this.
-    - <span style="color:Red">Image with delete book page</span>
-    - Before deleting a record you will see this message.
-    - <span style="color:Red">Image with delete book page</span>
-    - <span style="color:Red">Remember there is no way to recover information once it has been deleted. So be careful.</span>
+    ![image](/images/Project%20images/Delete%20Books.png)
+    - Before deleting a record you will see a warning message. Remember there is no way to recover information once it has been deleted. So be make sure you are deleting the right record.
+    - once you have deleted a book you will see this message "Record succefully deleted".
+    ![image](/images/Project%20images/edited/successful%20delete.png)
     - You can can now press the back button to return to the dashboard.
   
 - ### 2.2.2 Actions
