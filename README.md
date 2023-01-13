@@ -85,13 +85,15 @@ The **"Librarian / Admin"** dashboard looks like this. It has a few more options
 
     - **2.2.2.1 Book actions**
     
-    While on the books table dashboard you will see only the "add new book" option in the menu and when you are on the authours table dashboard you will see the option to return to the books table.
+    While on the books table dashboard you will see only the "add new book" option in the menu and when you are on the authours table dashboard you will see the option to return to the books table. These option will show when you click the "Books" dropdown option.
+
     - The ***"add new book"*** option will take you to a page where you can add a new book entry to the database. <span style="color:Red"> ***! Important reminder !***: *remeber to add the auther of the book first if they are not already in the database*. </span>
     - The ***"Books Table"*** option will only appear when you are on the authors table. It will return you the the books table dashboard.
 
  - **2.2.2.1 Author actions**
-    <br>
-    While on the Authors table dashboard you will see only the "add new author" option in the menu and when you are on the books table dashboard you will see the option to go to the Authors table.
+
+    While on the Authors table dashboard you will see only the "add new author" option in the menu and when you are on the books table dashboard you will see the option to go to the Authors table. These option will show when you click the "Authors" dropdown option.
+
     - The ***"add new Author"*** option will take you to a page where you can add a new author entry to the database.
     - The ***"Authors Table"*** option will only appear when you are on the Books table. It will take you the the Author table dashboard.
      
