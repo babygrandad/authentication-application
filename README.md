@@ -38,7 +38,7 @@ If your login was successful you should be on the dashboard.
 
 Users with the **"member"** role will have a dashboard that looks like this.
 
-![image](/images/Project%20images/Dashborad%20users.png)
+![image](/images/Project%20images/user%20dashboard%20-%20books.png)
 
 Member dashboard has a simple interface that has a search function and sort options.
 
