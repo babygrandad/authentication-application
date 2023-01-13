@@ -59,9 +59,9 @@ The **"Librarian / Admin"** dashboard looks like this. It has a few more options
 
     - Each table item has its own *Edit* option which will take you to the edit page of that particular item.
     - The pages will look like this.
-    - <span style="color:Red">Image with edit book page</span>
+    ![image](/images/Project%20images/Edit%20Book.png)
     - on a successful update you will see a message like this:
-    - <span style="color:Red">Image with successful update</span>
+    ![image](/images/Project%20images/edited/successful%20edit.png)
     - You can can now press the back button to return to the dashboard.
     
 - **2.2.1.2 Delete**
