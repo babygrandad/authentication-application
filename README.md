@@ -70,7 +70,7 @@ The **"Librarian / Admin"** dashboard looks like this. It has a few more options
     - The pages will look like this.
     ![image](/images/Project%20images/Delete%20Books.png)
     - Before deleting a record you will see a warning message. Remember there is no way to recover information once it has been deleted. So be make sure you are deleting the right record.
-    - once you have deleted a book you will see this message "Record succefully deleted".
+    - once you have deleted a book you will see this message "Record permanantly deleted".
     ![image](/images/Project%20images/edited/successful%20delete.png)
     - You can can now press the back button to return to the dashboard.
   
@@ -80,7 +80,7 @@ The **"Librarian / Admin"** dashboard looks like this. It has a few more options
     <br>
     While on the books table dashboard you will see only the "add new book" option int the menu and when you are on the authours table dashboard you will see the option to return to the books table.
     - The ***"add new book"*** option will take you to a page where you can add a new book entry to the database. <span style="color:Red"> ***! Important reminder !:*** remeber to add the auther of the book first if they are not already in the database. </span>
-    - The ***"Books Table"*** option will only appear when you are on the authors table. It will return you the the books table dashboard.
+    - The *** "Books Table" *** option will only appear when you are on the authors table. It will return you the the books table dashboard.
 
  - **2.2.2.1 Author actions**
     <br>
