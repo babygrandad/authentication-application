@@ -28,6 +28,8 @@ Upon open the aplication url you will be greated by the Login section.
 
 - If your registration is successful, you will see a message at the bottom of the form that will read <span style="color:green">"Registration successful"</span>. From here you can return to the login page and login. (see 1.1)
 
+![image](/images/Project%20images/edited/registration%20successful%20message.png)
+
 ## 2. Dashboard
 
 If your login was successful you should be on the dashboard.
@@ -36,20 +38,21 @@ If your login was successful you should be on the dashboard.
 
 Users with the **"member"** role will have a dashboard that looks like this.
 
-<span style="color:Red">Image with member dashboard</span>
+![image](/images/Project%20images/Dashborad%20users.png)
 
 Member dashboard has a simple interface that has a search function and sort options.
 
 - The search bar looks for booknames and genres.
 - You can sort the information by bookname or by genre in either ascending or descening order.
 - You can also sort the information based on your search results.
+- To show the whole entire database table again just erase the search input and click the search button again.
 - When you are done you can simply hit the log out button and will be redirected back to the login page.
 
 ### 2.2 Librarian / Admin Dashboard
 
-The **"Librarian / Admin"** dashboard looks like this. It has a few more options cmpared to the **"member"** dashboard.
+The **"Librarian / Admin"** dashboard looks like this. It has a few more options compared to the **"member"** dashboard.
 
-<span style="color:Red">Image with admin dashboard</span>
+![image](/images/Project%20images/admin%20dashborad%20-%20books.png)
 
 - ### 2.2.1 Edit & Delete
 - **2.2.1.1 Edit**
