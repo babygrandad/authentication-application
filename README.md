@@ -76,6 +76,13 @@ The **"Librarian / Admin"** dashboard looks like this. It has a few more options
   
 - ### 2.2.2 Actions
     When you click on the actions button at the top right of the screen you will get an side menu that has more CRUD options to to with books and authours
+
+    - Actions button 
+    ![iamage](/images/Project%20images/edited/actions%20button.png)
+
+    - CRUD Actions side menu
+    ![image](/images/Project%20images/Actions.png)
+
     - **2.2.2.1 Book actions**
     
     While on the books table dashboard you will see only the "add new book" option in the menu and when you are on the authours table dashboard you will see the option to return to the books table.
