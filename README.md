@@ -99,7 +99,8 @@ The **"Librarian / Admin"** dashboard looks like this. It has a few more options
     ![image](/images/Project%20images/New%20Authour.png)
     - The ***"Authors Table"*** option will only appear when you are on the Books table. It will take you the the Author table dashboard.
      
-
+- ### 2.3 Logout
+- When you are done. Click the log out button and you will be back at the login page.
 
 
 
